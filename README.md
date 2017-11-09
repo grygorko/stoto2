@@ -3,9 +3,10 @@
 
  stoto testing different styles
 **bold text**
-C
-C
-REALLY MESS WITH vi_italic texti
+here i can change
+
+REALLY MESS WITH vi function - don't use it
+
 =======
 # stoto2
 <<<<<<< HEAD
