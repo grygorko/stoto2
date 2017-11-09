@@ -1,14 +1,13 @@
-<<<<<<< HEAD
-#STOTO group is awesome
+#OUR FIRST PROJECT
+## let's talk about what we want to learn
+### add your name in the end of each change
 
- stoto testing different styles
-**bold text**
-C
-C
+**and don't forget to make it beautiful**
+
 REALLY MESS WITH vi_italic texti
 =======
 # stoto2
-<<<<<<< HEAD
+D
 salut les potos
 <<<<<<< HEAD
 hello again check if there any changes
