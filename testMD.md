@@ -1,4 +1,4 @@
-###### Exercice Markdown
+# Exercice Markdown
 
 1. *Atelier Google*
 2. *Qu'est ce que le MarkDown?*
@@ -17,6 +17,6 @@ Mark Twain disait
 ### MarkDown
 <https://guides.github.com/features/mastering-markdown/>
 
-![MarkDown logo] (https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "logo MD")
+![MarkDown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "logo MD")
 
 Markdown est un langage de balisage léger créé par John Gruber en 2004. Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
