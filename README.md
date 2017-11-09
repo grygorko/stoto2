@@ -32,3 +32,6 @@ salut les poto i will try to make some changes
 J'arrive en retard, qui suis-je ?
 test test
 >>>>>>> 1520772e3f22ab4d3833578602afa626c6cf1bce
+
+http://github.com - automatic!
+[GitHub](http://github.com)
