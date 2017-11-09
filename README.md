@@ -3,7 +3,7 @@
 ### add your name in the end of each change
 
 **and don't forget to make it beautiful**
-
+TRY to merge
 <<<<<<< HEAD
  stoto testing different styles
 **bold text**
