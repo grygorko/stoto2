@@ -1,4 +1,4 @@
 # MENU 
-## ACCES OTHERS
+## ACCESS to OTHERS
 
-![what?](/home/user/Desktop/What-Meme-13.jpg)
+![what?](/Desktop/What-Meme-13.jpg)
