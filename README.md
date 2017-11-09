@@ -1,6 +1,10 @@
-<<<<<<< HEAD
-#STOTO group is awesome
+#OUR FIRST PROJECT
+## let's talk about what we want to learn
+### add your name in the end of each change
 
+**and don't forget to make it beautiful**
+
+<<<<<<< HEAD
  stoto testing different styles
 **bold text**
 here i can change
@@ -8,8 +12,11 @@ here i can change
 REALLY MESS WITH vi function - don't use it
 
 =======
+REALLY MESS WITH vi_italic texti
+>>>>>>> Kat
+=======
 # stoto2
-<<<<<<< HEAD
+D
 salut les potos
 <<<<<<< HEAD
 hello again check if there any changes
