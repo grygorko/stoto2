@@ -1,10 +1,10 @@
-######Exercice Markdown
+###### Exercice Markdown
 
 1. *Atelier Google*
 2. *Qu'est ce que le MarkDown?*
 
 
-###Atelier Google
+### Atelier Google
 <http://www.google.com>
 
 ![Google logo](https://www.google.fr/images/srpr/logo11w.png "google logo")
@@ -14,7 +14,7 @@ Google est une entreprise américaine de services technologiques fondée en 1998
 Mark Twain disait
 >> "Google is the world"
 
-###MarkDown
+### MarkDown
 <https://guides.github.com/features/mastering-markdown/>
 
 ![MarkDown logo] (https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "logo MD")
