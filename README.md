@@ -20,5 +20,3 @@ As Kanye West said:
 * Kat
 * Nael
 * Jacqueline
-
-
