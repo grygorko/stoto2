@@ -1,7 +1,7 @@
 # MENU 
 ## ACCESS to OTHERS
 
-![what?](home/user/Desktop/What-Meme-13.jpg)
+![what?](https://i.ytimg.com/vi/CCPIt9lrohE/maxresdefault.jpg)
 
 
 
